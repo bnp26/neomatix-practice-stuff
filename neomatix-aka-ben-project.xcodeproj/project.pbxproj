@@ -6,10 +6,19 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		4E5AB9AD1D157CAE00D3022F /* imageviewer.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = imageviewer.cpp; sourceTree = "<group>"; };
+		4E5AB9AE1D157CAE00D3022F /* imageviewer.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = imageviewer.hpp; sourceTree = "<group>"; };
+		4E5AB9AF1D15863100D3022F /* Makefile */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		4E5AB9A61D157AEC00D3022F = {
 			isa = PBXGroup;
 			children = (
+				4E5AB9AF1D15863100D3022F /* Makefile */,
+				4E5AB9AD1D157CAE00D3022F /* imageviewer.cpp */,
+				4E5AB9AE1D157CAE00D3022F /* imageviewer.hpp */,
 			);
 			sourceTree = "<group>";
 		};
